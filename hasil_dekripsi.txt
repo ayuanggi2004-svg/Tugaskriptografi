@@ -1,0 +1,8 @@
+=== HASIL DEKRIPSI ELGAMAL ===
+
+Kunci Publik  : (467, 2, 178)
+Kunci Privat  : 335
+
+Ciphertext    : [(257, 458), (227, 142), (368, 101), (236, 392), (464, 286), (163, 427), (386, 23), (225, 299), (339, 293), (40, 20), (36, 445), (454, 447)]
+
+Plaintext     : anggi cantik
